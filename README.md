@@ -1,6 +1,3 @@
-Vamos escrever algo para treinar as linhas de comando 
-Alterei mais uma vez somente enchendo linguiça para aprender os comandos de uma formsa mais orgânica
-blibliblibloblbo,mççkssdgfaemn jgwj kk
+# Titulo do meu README 
 
-
-nlmsbdljhf mn fejfhvlljc skjd k
+Aqui nesse arquivo teremos as informações referentes ao nosso projeto
